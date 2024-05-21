@@ -2,7 +2,7 @@
 
 👋 Hi there, I'm Darlan!
 
-I'm passionate about developing APIs related to computer vision, signal processing, photonics, failure prediction, and more. I'm constantly learning and exploring new horizons in the world of technology.
+I'm focused on developing APIs that use Machine Learning applied to computer vision, signal processing, engineering and data science, photonic sensors, fault prediction, digital twins, and more. I am constantly learning and exploring new horizons in the world of technology.
 
 ## 🔭 Current Projects
 
